@@ -19,7 +19,7 @@ export const photos= [
     },
     {
         "title": "Maggam Bangles",
-        "imagePath": "4.png",
+        "imagePath": "24.jpg",
         "Code": "1904",
         "description": "Maggam Bangles"
     },
@@ -115,7 +115,7 @@ export const photos= [
     },
     {
         "title": "Maggam Bangles",
-        "imagePath": "24.jpg",
+        "imagePath": "4.png",
         "Code": "1920",
         "description": "Maggam Bangles"
     },
