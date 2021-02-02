@@ -9,6 +9,8 @@ import { NavigationComponent } from './components/navigation/navigation.componen
 import { PhotosListComponent } from './components/photos-list/photos-list.component';
 import { PhotoFormComponent } from './components/photo-form/photo-form.component';
 import { PhotoPreviewComponent } from './components/photo-preview/photo-preview.component';
+import { NgxPaginationModule } from 'ngx-pagination';
+
 
 @NgModule({
   declarations: [
@@ -21,7 +23,8 @@ import { PhotoPreviewComponent } from './components/photo-preview/photo-preview.
   imports: [
     BrowserModule,
     AppRoutingModule,
-    HttpClientModule
+    HttpClientModule,
+    NgxPaginationModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,43 +1,43 @@
 export const photos= [
     {
         "title": "Maggam Bangles",
-        "imagePath": "5.jpg",
+        "imagePath": "1.JPG",
         "Code": "1901",
         "description": "Maggam Bangles"
     },
     {
         "title": "Maggam Bangles",
-        "imagePath": "6.jpg",
+        "imagePath": "2.JPG",
         "Code": "1902",
         "description": "Maggam Bangles"
     },
     {
         "title": "Maggam Bangles",
-        "imagePath": "7.jpg",
+        "imagePath": "3.JPG",
         "Code": "1903",
         "description": "Maggam Bangles"
     },
     {
         "title": "Maggam Bangles",
-        "imagePath": "8.jpg",
+        "imagePath": "4.JPG",
         "Code": "1904",
         "description": "Maggam Bangles"
     },
     {
         "title": "Maggam Bangles",
-        "imagePath": "9.jpg",
+        "imagePath": "5.jpg",
         "Code": "1905",
         "description": "Maggam Bangles"
     },
     {
         "title": "Maggam Bangles",
-        "imagePath": "10.jpg",
+        "imagePath": "6.jpg",
         "Code": "1906",
         "description": "Maggam Bangles"
     },
     {
         "title": "Maggam Bangles",
-        "imagePath": "11.jpg",
+        "imagePath": "7.jpg",
         "Code": "1907",
         "description": "Maggam Bangles"
     },
