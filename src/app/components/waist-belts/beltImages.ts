@@ -2,7 +2,7 @@ export const beltImages= [
     {
         "Name": "Maggam Waist Belt",
         "Code": "m-101",
-        "imagePath": "m1.JPG"
+        "imagePath": "m1.png"
     },
     {
         "Name": "Maggam Waist Belt",
@@ -17,7 +17,7 @@ export const beltImages= [
     {
         "Name": "Maggam Waist Belt",
         "Code": "m-104",
-        "imagePath": "m4.JPG"
+        "imagePath": "m4.png"
     },
     {
         "Name": "Maggam Waist Belt",
