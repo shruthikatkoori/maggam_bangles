@@ -10,6 +10,7 @@ import { PhotosListComponent } from './components/photos-list/photos-list.compon
 import { PhotoFormComponent } from './components/photo-form/photo-form.component';
 import { PhotoPreviewComponent } from './components/photo-preview/photo-preview.component';
 import { NgxPaginationModule } from 'ngx-pagination';
+import { WaistBeltsComponent } from './components/waist-belts/waist-belts.component';
 
 
 @NgModule({
@@ -18,7 +19,8 @@ import { NgxPaginationModule } from 'ngx-pagination';
     NavigationComponent,
     PhotosListComponent,
     PhotoFormComponent,
-    PhotoPreviewComponent
+    PhotoPreviewComponent,
+    WaistBeltsComponent
   ],
   imports: [
     BrowserModule,

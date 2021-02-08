@@ -1,0 +1,11 @@
+<div class="row justify-content-center">
+    <div class="col-md-4 p-4" *ngFor="let image of beltImages | paginate: { itemsPerPage: 6, currentPage: p }">
+        <div class="card card-photo" (click)="selectedCard(image._code)" >
+            <img [src]="'assets/images/' + image.imagePath" class="img-card-top w-100 img-height">
+            <div class="card-body">
+                <p>Code: {{image.Code}}</p>
+            </div>
+        </div>
+    </div>
+    <pagination-controls (pageChange)="p = $event"></pagination-controls>
+</div>

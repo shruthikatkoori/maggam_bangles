@@ -4,6 +4,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { PhotosListComponent } from './components/photos-list/photos-list.component'
 import { PhotoFormComponent } from './components/photo-form/photo-form.component'
 import { PhotoPreviewComponent } from './components/photo-preview/photo-preview.component'
+import { WaistBeltsComponent } from './components/waist-belts/waist-belts.component';
 
 const routes: Routes = [
   {
@@ -17,6 +18,10 @@ const routes: Routes = [
   {
     path: 'photos/:id',
     component: PhotoPreviewComponent
+  },
+  {
+    path: 'waistbelt',
+    component: WaistBeltsComponent
   },
   {
     path: '',
